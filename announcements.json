@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 4,
+      "title": "Test Announcement ✅",
+      "date": "2026-10-30",
+      "body": "This is a test announcement from Sky Music.\\n\\nIf you can see this, the News system is working perfectly."
+    },
+    {
       "id": 3,
       "title": "Sky Music 4.0 Is Here",
       "date": "2026-10-30",
