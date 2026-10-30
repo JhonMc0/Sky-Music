@@ -1,0 +1,16 @@
+{
+  "announcements": [
+    {
+      "id": 3,
+      "title": "Sky Music 4.0 Is Here",
+      "date": "2026-10-30",
+      "body": "We're pleased to announce a major update to Sky Music.\\n\\nWhat's new:\\n•  SoundCloud support, alongside YouTube\\n•  Voice effects — Baby, Chipmunk, Deep, Demon, Robot, Echo\\n•  Playlists\\n•  DJ-style speed control\\n•  Discord Rich Presence (now playing)\\n•  Customizable app theme\\n\\nThe update installs automatically — just open Sky Music and select Yes when prompted.\\n\\nThank you for being part of Sky Music."
+    },
+    {
+      "id": 2,
+      "title": "Welcome to Sky Music",
+      "date": "2026-10-28",
+      "body": "Play any track from YouTube or SoundCloud with studio-quality reverb.\\n\\nWe're glad to have you on board."
+    }
+  ]
+}
