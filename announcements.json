@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "id": 5,
+      "title": "Sky Music 4.1.0 — A Big Update",
+      "date": "2026-11-02",
+      "body": "We're pleased to announce Sky Music 4.1.0 — our biggest update yet.\\n\\nWhat's new:\\n•  System-tray icon with a right-click quick menu\\n•  Keeps running in the tray when you close the window\\n•  Floating mini player, always on top\\n•  Global keyboard shortcuts (play, next, speed)\\n•  Equalizer presets — Bass Boost, Vocal, Treble, Flat\\n•  Sleep timer\\n•  Shuffle, repeat, and smart auto-advance\\n•  A-B loop to repeat part of a track\\n•  On-screen lyrics\\n•  Resume your last session\\n•  Custom cover image for your Discord status\\n\\nThe update installs automatically — just open Sky Music and select Yes when prompted.\\n\\nThank you for being part of Sky Music."
+    },
+    {
       "id": 4,
       "title": "Test Announcement ✅",
       "date": "2026-10-30",
